@@ -1,12 +1,7 @@
 team: Leopards
 
-<<<<<<< HEAD
-manager: Nora
-coach: Lupi
-=======
 manager: Dooli
-coach: Melissa
->>>>>>> dc6e930 (Edit Leopards manager)
+coach: Lupi
 
 members:
 - Linda
